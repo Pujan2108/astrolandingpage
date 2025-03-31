@@ -1,4 +1,4 @@
-// src/pages/index.astro
+
 ---
 import "../styles.css";
 ---
