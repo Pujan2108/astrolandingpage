@@ -28,29 +28,3 @@ import "../styles.css";
     </footer>
 </body>
 </html>
-
-/* src/styles.css */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: #f4f4f4;
-}
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-}
-section {
-    margin: 20px;
-    padding: 20px;
-}
-footer {
-    background-color: #222;
-    color: white;
-    padding: 10px;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-}
